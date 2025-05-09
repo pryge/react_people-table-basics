@@ -1,7 +1,7 @@
 import { Navigate, Route, Routes } from 'react-router-dom';
 import './App.scss';
 import { Navbar } from './components/Navbar';
-import { PeoplePage } from './components/Peoplepage';
+import { PeoplePage } from './components/PeoplePage';
 //bla bla bla
 
 export const App = () => (
