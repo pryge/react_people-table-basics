@@ -2,6 +2,7 @@ import { Navigate, Route, Routes } from 'react-router-dom';
 import './App.scss';
 import { Navbar } from './components/Navbar';
 import { PeoplePage } from './components/Peoplepage';
+//bla bla bla
 
 export const App = () => (
   <div data-cy="app">
